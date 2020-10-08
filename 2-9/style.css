@@ -22,16 +22,16 @@ main {
   background-color: #eeeeee;
   margin: auto 15px;
   padding: 10px;
-
   position: relative;
+}
 
-  .index {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #ff9a4b;
-    color: white;
-  }
+.index {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff9a4b;
+  color: white;
+}
 
 h3 {
   padding-top: 15px;
